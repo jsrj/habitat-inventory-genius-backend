@@ -5,7 +5,7 @@ const bodyParser   = require('body-parser');
 const mongoose     = require('mongoose');
 
 
-mongoose.connect('mongodb://localhost/inventory-genius-b');
+// mongoose.connect('mongodb://localhost/inventory-genius-b');
 
 const app = express();
 
